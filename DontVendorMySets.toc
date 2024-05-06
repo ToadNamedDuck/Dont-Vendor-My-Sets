@@ -1,0 +1,7 @@
+## Interface: 100206
+## Version: 1.0.0
+## Title: Don't Vendor My Sets 
+## Notes: Gives a warning if you vendor an item belonging to an equipment set.
+## Author: ToadNamedDuck
+## IconTexture: 132366
+DontVendorMySets.lua
